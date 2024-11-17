@@ -10,9 +10,9 @@ app.get('/', (req, res) => {
 const animes = [
   {
     id: 1,
-    name: "Naruto",
+    name: "JOJO's",
     genre: "Ação",
-    studio: "Pierrot"
+    studio: "David productions"
   }
 ];
 
